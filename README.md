@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/syncriiix" target="blank"><img src="https://img.shields.io/twitter/follow/syncriiix?logo=twitter&style=for-the-badge" alt="syncriiix" /></a> </p>
 
-- 🌱 I’m currently learning **Procedural 3D Generation and Stable Diffusion**
+- 🌱 I’m currently learning **Procedural 3D Generation and Machine Learning**
 
 - 💬 Ask me about **Social Engineering, Python and Blender**
 
